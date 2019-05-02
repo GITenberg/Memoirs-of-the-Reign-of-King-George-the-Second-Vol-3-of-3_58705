@@ -1,0 +1,43 @@
+_repo: Memoirs-of-the-Reign-of-King-George-the-Second-Vol-3-of-3_58705
+_version: 0.0.1
+alternative_title: Memoirs of the Reign of King George II, Volume 3 (of 3)
+creator:
+  author:
+    agent_name: Walpole, Horace
+    aliases:
+    - Marshall, William
+    - Walpole, Horatio
+    - Orford, Horace Walpole, Earl of
+    - Muralto, Onuphrio
+    birthdate: 1717
+    deathdate: 1797
+    gutenberg_agent_id: '358'
+    url: http://www.gutenberg.org/2009/agents/358
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Walpole%2C_4th_Earl_of_Orford
+  editor:
+    agent_name: Holland, Henry Richard Vassall, Baron
+    aliases:
+    - Holland, Henry Richard Vassall Fox, Baron
+    - Vassall, Henry Richard, Baron Holland
+    - Fox, Henry Richard, Baron Holland
+    - Holland, Lord
+    birthdate: 1773
+    deathdate: 1840
+    gutenberg_agent_id: '49144'
+    url: http://www.gutenberg.org/2009/agents/49144
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Vassall-Fox,_3rd_Baron_Holland
+description: ''
+gutenberg_issued: '2019-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- George II, 1727-1760'
+- !lcc 'DA'
+- GITenberg
+title: Memoirs of the Reign of King George the Second, Volume 3 (of 3)
+url: http://www.gutenberg.org/ebooks/58705
