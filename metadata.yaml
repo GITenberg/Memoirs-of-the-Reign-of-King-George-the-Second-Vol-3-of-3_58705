@@ -1,6 +1,9 @@
 _repo: Memoirs-of-the-Reign-of-King-George-the-Second-Vol-3-of-3_58705
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Memoirs of the Reign of King George II, Volume 3 (of 3)
+covers:
+- cover_type: archival
+  image_path: 58705-h/images/cover.jpg
 creator:
   author:
     agent_name: Walpole, Horace
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49144
     wikipedia: https://en.wikipedia.org/wiki/Henry_Vassall-Fox,_3rd_Baron_Holland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58705#Memoirs-of-the-Reign-of-King-George-the-Second-Vol-3-of-3
 gutenberg_issued: '2019-01-16'
 gutenberg_type: Text
 identifiers:
